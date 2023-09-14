@@ -1,6 +1,5 @@
 {
   "artactivities":[
-    
     {   "id": 1, 
         "name": "Pendhapa Art Space", 
         "position": {"lat": -7.82854195 , "lng": 110.35732105}, 
@@ -129,8 +128,5 @@
         "address": "Jl. Nitiprayan, Ngestiharjo, Kasihan, Bantul, Daerah Istimewa Yogyakarta 55184", 
         "description": "SURVIVE! Garage is a respected art space and shop that also regularly hosts events. It’s one of the best places to purchase affordable art made by some of the city’s prominent local artists. If you can’t fit the artwork in your luggage, they also sell a great selection of t-shirts."
     }
-
-
-  ]
-
+]
 }
